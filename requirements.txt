@@ -1,5 +1,5 @@
 click>=8.0.1
 wheel>=0.37.1
-#requests>=2.27.1
+requests>=2.27.1
 npyscreen>=4.10.5
 bigrest>=1.4.0
