@@ -9,8 +9,6 @@ F5 tool chain CLI - a tool for working with F5 tool chain.
 # Installation
 ```
 cd f5_toolchain
-python3 -m venv .venv
-source .venv/bin/activate
 python3 setup.py install
 f5-toolchain --help
 ```
